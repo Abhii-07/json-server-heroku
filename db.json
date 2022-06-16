@@ -15,16 +15,14 @@
   ],
   "cart": [
     {
-      "id": 1,
-      "email": "A@demo.com",
-      "username": "Abhi",
-      "password": "Abhi123"
-    },
-    {
-      "id": 2,
-      "email": "B@demo.com",
-      "username": "Demo",
-      "password": "Demo123"
+      "_id": "6273cffe34d1d173af7a701c",
+      "image_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/AsSeenin-2copy_720x.png?v=1634793915",
+      "image2_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/TheLaurenStyle-79_1.jpg?v=1633240353",
+      "brandname": "MAYA CHIP",
+      "productName": "Power Fol Eyelash | Eyebrow Treatment",
+      "price": 4320,
+      "available": "3 more color",
+      "background": "hair"
     }
   ]
 }
