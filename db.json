@@ -33,6 +33,16 @@
       "price": 2880,
       "available": "2 more color",
       "background": "hair"
+    },
+    {
+      "_id": "6273d00e34d1d173af7a703c",
+      "image_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/30PCH1.jpg?v=1632359699",
+      "image2_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/30PCH2.jpg?v=1632360546",
+      "brandname": "TOWER 28",
+      "productName": "SunnyDays Tinted SPF Sunscreen Foundation",
+      "price": 2530,
+      "available": "14 more colors",
+      "background": "skin"
     }
   ]
 }
