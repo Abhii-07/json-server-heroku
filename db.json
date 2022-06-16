@@ -23,6 +23,16 @@
       "price": 4320,
       "available": "3 more color",
       "background": "hair"
+    },
+    {
+      "_id": "6273cffe34d1d173af7a701d",
+      "image_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/ProductHeroImage-GuavaRescueSpray_720x.jpg?v=1629846425",
+      "image2_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/Credo_GuavaRescue-03.jpg?v=1629846315",
+      "brandname": "CEREMONIA",
+      "productName": "Guava Rescue Spray",
+      "price": 2880,
+      "available": "2 more color",
+      "background": "hair"
     }
   ]
 }
