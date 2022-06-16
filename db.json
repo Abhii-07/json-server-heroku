@@ -15,7 +15,7 @@
   ],
   "cart": [
     {
-      "id": "6273cffe34d1d173af7a701c",
+      "_id": "6273cffe34d1d173af7a701c",
       "image_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/AsSeenin-2copy_720x.png?v=1634793915",
       "image2_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/TheLaurenStyle-79_1.jpg?v=1633240353",
       "brandname": "MAYA CHIP",
@@ -25,7 +25,7 @@
       "background": "hair"
     },
     {
-      "id": "6273cffe34d1d173af7a701d",
+      "_id": "6273cffe34d1d173af7a701d",
       "image_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/ProductHeroImage-GuavaRescueSpray_720x.jpg?v=1629846425",
       "image2_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/Credo_GuavaRescue-03.jpg?v=1629846315",
       "brandname": "CEREMONIA",
@@ -35,7 +35,7 @@
       "background": "hair"
     },
     {
-      "id": "6273d00e34d1d173af7a703c",
+      "_id": "6273d00e34d1d173af7a703c",
       "image_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/30PCH1.jpg?v=1632359699",
       "image2_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/30PCH2.jpg?v=1632360546",
       "brandname": "TOWER 28",
@@ -45,7 +45,7 @@
       "background": "skin"
     },
     {
-      "id": "6273d00e34d1d173af7a7041",
+      "_id": "6273d00e34d1d173af7a7041",
       "image_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/ilialimitlesslashmascara_Allureseal.jpg?v=1591131664",
       "image2_url": "https://cdn.shopify.com/s/files/1/0637/6147/products/ILIA_Mascara_Hero_2.jpg?v=1582220324",
       "brandname": "ILIA",
