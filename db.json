@@ -12,5 +12,19 @@
       "username": "Demo",
       "password": "Demo123"
     }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "email": "A@demo.com",
+      "username": "Abhi",
+      "password": "Abhi123"
+    },
+    {
+      "id": 2,
+      "email": "B@demo.com",
+      "username": "Demo",
+      "password": "Demo123"
+    }
   ]
 }
